@@ -1,1 +1,3 @@
-20203067 SangumPark software
+20203067 SangumPark 
+software
+Kookmin Univ.
